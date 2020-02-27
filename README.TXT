@@ -1,12 +1,19 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+  ______                                                    _______   __            __       
+ /      \                                                  |       \ |  \          |  \      
+|  $$$$$$\  ______   ______    ______    ______   __    __ | $$$$$$$\ \$$  ______  | $$____  
+| $$   \$$ /      \ |      \  /      \  /      \ |  \  |  \| $$__/ $$|  \ /      \ | $$    \ 
+| $$      |  $$$$$$\ \$$$$$$\|  $$$$$$\|  $$$$$$\| $$  | $$| $$    $$| $$|  $$$$$$\| $$$$$$$\
+| $$   __ | $$   \$$/      $$| $$  | $$| $$  | $$| $$  | $$| $$$$$$$\| $$| $$   \$$| $$  | $$
+| $$__/  \| $$     |  $$$$$$$| $$__/ $$| $$__/ $$| $$__/ $$| $$__/ $$| $$| $$      | $$__/ $$
+ \$$    $$| $$      \$$    $$| $$    $$| $$    $$ \$$    $$| $$    $$| $$| $$      | $$    $$
+  \$$$$$$  \$$       \$$$$$$$| $$$$$$$ | $$$$$$$  _\$$$$$$$ \$$$$$$$  \$$ \$$       \$$$$$$$ 
+                             | $$      | $$      |  \__| $$                                  
+                             | $$      | $$       \$$    $$                                  
+                              \$$       \$$        \$$$$$$                                   
+----------------------------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: CrappyBirb
+PURPOSE OF PROJECT: NetLab Open Recruitment test
+AUTHORS: Veriaci
+USER INSTRUCTIONS:  just try it yourself
